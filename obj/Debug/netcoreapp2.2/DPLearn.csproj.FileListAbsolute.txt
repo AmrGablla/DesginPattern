@@ -1,0 +1,11 @@
+/home/gab/DPLearn/bin/Debug/netcoreapp2.2/DPLearn.deps.json
+/home/gab/DPLearn/bin/Debug/netcoreapp2.2/DPLearn.runtimeconfig.json
+/home/gab/DPLearn/bin/Debug/netcoreapp2.2/DPLearn.runtimeconfig.dev.json
+/home/gab/DPLearn/bin/Debug/netcoreapp2.2/DPLearn.dll
+/home/gab/DPLearn/bin/Debug/netcoreapp2.2/DPLearn.pdb
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.csprojAssemblyReference.cache
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.csproj.CoreCompileInputs.cache
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.AssemblyInfoInputs.cache
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.AssemblyInfo.cs
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.dll
+/home/gab/DPLearn/obj/Debug/netcoreapp2.2/DPLearn.pdb
